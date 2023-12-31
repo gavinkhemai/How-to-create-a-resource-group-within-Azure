@@ -2,10 +2,13 @@
  Creating a resource group in Azure is a fundamental step in organizing and managing your Azure resources.
 Environments used- Microsoft Azure, Windows 10, 
 Technologies used- Microsoft Azure, 
+
 ![image](https://github.com/gavinkhemai/How-to-create-a-resource-group-within-Azure/assets/155316218/b0cf0ce8-d2b6-4315-be7e-d3397f67895d)
 
 
+
 Steps
+
 Sign in to the Azure Portal:
 
 Go to https://portal.azure.com/.
